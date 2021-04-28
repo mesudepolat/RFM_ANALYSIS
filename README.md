@@ -8,14 +8,14 @@
 
 ## Project Steps
 
-1.Business Problem
+1. Business Problem
 
-2.Data Understanding
+2. Data Understanding
 
-3.Data Preparation
+3. Data Preparation
 
-4.Calculating RFM Metrics
+4. Calculating RFM Metrics
 
-5.Calculating RFM Scores
+5. Calculating RFM Scores
 
-6.Naming & Analysing RFM Segments
+6. Naming & Analysing RFM Segments
