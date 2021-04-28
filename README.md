@@ -13,3 +13,9 @@
 2.Data Understanding
 
 3.Data Preparation
+
+4.Calculating RFM Metrics
+
+5. Calculating RFM Scores
+
+6. Naming & Analysing RFM Segments
