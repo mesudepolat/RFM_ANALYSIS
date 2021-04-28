@@ -19,3 +19,5 @@
 5. Calculating RFM Scores
 
 6. Naming & Analysing RFM Segments
+
+## Dataset Information
