@@ -8,3 +8,5 @@
 
 ## Project Steps
 
+1.Business Problem
+2.Data Understanding
