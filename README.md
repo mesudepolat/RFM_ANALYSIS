@@ -16,6 +16,6 @@
 
 4.Calculating RFM Metrics
 
-5. Calculating RFM Scores
+5.Calculating RFM Scores
 
-6. Naming & Analysing RFM Segments
+6.Naming & Analysing RFM Segments
