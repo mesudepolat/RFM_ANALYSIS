@@ -6,7 +6,7 @@
 
 * Those who display common behavior will be in the same groups and feedback will be given to these groups in developing sales and marketing techniques specific to these groups.
 
-* https://mesudee.medium.com/customer-segmentation-with-rfm-analysis-198d1c8b98c1
+* You can access the article on the subject from the link https://mesudee.medium.com/customer-segmentation-with-rfm-analysis-198d1c8b98c1
 
 ## Project Steps
 
